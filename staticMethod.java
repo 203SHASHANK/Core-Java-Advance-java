@@ -16,7 +16,7 @@ class Mobile{
 	}
 }
 
-public class Demo {
+public class staticMethod {
 	public static void main(String[] args) 
 	{
 		Mobile obj1=new Mobile();
